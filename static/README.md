@@ -1,0 +1,1 @@
+This file will be deleted to remove the static directory
