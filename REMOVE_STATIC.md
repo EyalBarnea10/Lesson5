@@ -1,1 +1,0 @@
-This file is created to help remove the static directory completely.
